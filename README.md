@@ -3,9 +3,9 @@ Included are the following Assignments:
 
 *Computer Systems*:
 - Performance Lab
-  - Description
+  - Improving Performance of an image processing application
 - Data Lab  
-  - Description
+  - Solve programming "puzzles" using C arithmetic and logical operators an no loops or conditionals
 
 *Programming Languages*:
 - Assignments 1 - 10
