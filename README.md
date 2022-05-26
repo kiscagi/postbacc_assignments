@@ -5,7 +5,7 @@ Included are the following Assignments:
 - Performance Lab
   - Improving Performance of an image processing application
 - Data Lab  
-  - Solve programming "puzzles" using C arithmetic and logical operators an no loops or conditionals
+  - Solve programming "puzzles" using C arithmetic and logical operators with no loops or conditionals
 
 *Programming Languages*:
 - Assignments 1 - 10
@@ -13,9 +13,9 @@ Included are the following Assignments:
 
 *Algorithms*:
 - Amazing Maze Programming Assignment
-  - Description
+  - Solve a maze using Dijkstra's algorithm
 - Tries Programming Assignment
-  - Description
+  - Dictionary lookup and autocomplete using Tries
 
 *Linear Algebra*:
 - Cluster Example
