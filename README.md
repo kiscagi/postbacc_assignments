@@ -9,7 +9,6 @@ Included are the following Assignments:
 
 *Programming Languages*:
 - Assignments 1 - 10
-  - Description
 
 *Algorithms*:
 - Amazing Maze Programming Assignment
